@@ -10,6 +10,8 @@ public class UserAppApplication {
 
 		SpringApplication.run(UserAppApplication.class, args);
 		System.out.println("added code to github");
+		System.out.println("added code to github");
+		System.out.println("added code to github");
 	}
 
 }
